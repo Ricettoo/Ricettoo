@@ -6,9 +6,7 @@
 
 #### I'm Learning now:
 
-[![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=purple)]
-
-[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=purple)]
+[![java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=purple)] [![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=purple)]
 
 ### Contact: 
 [[![Instagram](https://img.shields.io/badge/Instagram-ff4d6c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricettoo/)]

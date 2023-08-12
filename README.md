@@ -2,7 +2,7 @@
 ## Hi, I'm Gabriel Ricetto 👋
 ### I am now learning computer science at Unespar
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Ricettoo&show_icons=true&theme=midnight-purple))] ![Status2](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![stats](https://github-readme-stats.vercel.app/api?username=Ricettoo&show_icons=true&theme=midnight-purple))] ![Status2](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricetoo&layout=compact)
 
 #### I'm Learning now:
 

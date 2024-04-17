@@ -1,6 +1,6 @@
 
 ## Hi, I'm Gabriel Ricetto 👋
-### I am now learning computer science at Unespar
+### I am a student at Computer's Science
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Ricettoo&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricettoo&layout=compact&langs_count16&theme=midnight-purple)
 #### I'm Learning now:

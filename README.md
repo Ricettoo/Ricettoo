@@ -2,7 +2,7 @@
 ## Hi, I'm Gabriel Ricetto 👋
 ### I'm a student of Computer's Science
 
-![stats](https://github-readme-stats.vercel.app/api?username=Ricettoo&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricettoo&layout=compact&langs_count16&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricettoo&layout=compact&langs_count16&theme=midnight-purple)
 
 
 #### Contact: 
